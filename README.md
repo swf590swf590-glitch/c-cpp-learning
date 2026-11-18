@@ -14,7 +14,7 @@
 
 ## Python 进度
 
-- [ ] 第 1 课 · 蓝桥杯式输入输出 + 枚举找最值：传感器找最近者（进行中）
+- [x] 第 1 课 · 输入输出 + 循环找最值：传感器找最近者（input/split/int + 擂主法，并列取 id 小者）
 - [ ] 第 2 课 · 排序与计数
 - [ ] 第 3 课 · 栈与队列 / BFS 雏形
 - [ ] 第 4 课 · 枚举与数论填空打法
@@ -28,7 +28,7 @@
 | `lesson-01-pointers/` | C：第 1 课 |
 | `lesson-02-arrays-and-strings/` | C：第 2 课 |
 | `lesson-03-structs/` | C：第 3 课 |
-| `python/lesson-01-io-and-enumeration/` | Python：第 1 课（待验收后收录） |
+| `python/lesson-01-io-and-enumeration/` | Python：第 1 课 `nearest_sensor.py` 读入 n 个传感器、找距离最近者 |
 
 ## 运行
 
