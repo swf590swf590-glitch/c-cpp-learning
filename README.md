@@ -11,6 +11,7 @@
 - [x] 第 1 课 · 指针基础：指针交换、判空后清零
 - [x] 第 2 课 · 数组与指针、字符串：指针遍历数组、手写 strlen
 - [x] 第 3 课 · 结构体：传感器结构体数组找最近者 + 指针清零
+- [x] 第 4 课 · 动态内存：malloc 建数组、判空、free 后置 NULL
 
 ## Python 进度
 
@@ -28,6 +29,7 @@
 | `lesson-01-pointers/` | C：第 1 课 |
 | `lesson-02-arrays-and-strings/` | C：第 2 课 |
 | `lesson-03-structs/` | C：第 3 课 |
+| `lesson-04-dynamic-memory/` | C：第 4 课 |
 | `python/lesson-01-io-and-enumeration/` | Python：第 1 课 `nearest_sensor.py` 读入 n 个传感器、找距离最近者 |
 
 ## 运行
