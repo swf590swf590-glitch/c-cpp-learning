@@ -13,6 +13,7 @@
 - [x] 第 3 课 · 结构体：传感器结构体数组找最近者 + 指针清零
 - [x] 第 4 课 · 动态内存：malloc 建数组、判空、free 后置 NULL
 - [x] 综合小测 1 · 第 0—4 课混合：动态申请结构体数组找最近者 + 指针清零
+- [x] 第 5 课 · C++ 起步：引用交换 + vector 范围 for 求和
 
 ## Python 进度
 
@@ -32,6 +33,7 @@
 | `lesson-03-structs/` | C：第 3 课 |
 | `lesson-04-dynamic-memory/` | C：第 4 课 |
 | `review-test-01/` | C：综合小测 1 |
+| `lesson-05-cpp-intro/` | C++：第 5 课 |
 | `python/lesson-01-io-and-enumeration/` | Python：第 1 课 `nearest_sensor.py` 读入 n 个传感器、找距离最近者 |
 
 ## 运行
